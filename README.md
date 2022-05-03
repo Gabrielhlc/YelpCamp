@@ -20,6 +20,7 @@ Ferramentas utilizadas no app:
 - JavaScript
 - Bootstrap
 - EJS
+- Heroku
 - MongoDB + Mongoose
 - Express
 - Joi
@@ -52,6 +53,7 @@ App tools:
 - JavaScript
 - Bootstrap
 - EJS
+- Heroku
 - MongoDB + Mongoose
 - Express
 - Joi
