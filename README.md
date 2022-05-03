@@ -1,4 +1,4 @@
-~ Português ~ 
+# Português
 
 YelpCamp é um projeto de aplicação web desenvolvida no The Web Developer Bootcamp 2.0. 
 
@@ -32,7 +32,7 @@ Ferramentas utilizadas no app:
 - Multer
 
 
-~ English ~
+# English
 
 YelpCamp is a web application project developed on The Web Developer Bootcamp 2.0.
 
