@@ -25,7 +25,7 @@ Ferramentas utilizadas no app:
 - Express
 - Joi
 - Helmet
-- Satinize-HTML
+- Sanitize-HTML
 - Passport
 - Mapbox
 - Cloudinary
@@ -58,7 +58,7 @@ App tools:
 - Express
 - Joi
 - Helmet
-- Satinize-HTML
+- Sanitize-HTML
 - Passport
 - Mapbox
 - Cloudinary
